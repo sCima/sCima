@@ -1,5 +1,5 @@
 ### Hi, I'm Rodolfo 👋
-Atualmente cursando sistemas de informação na FIAP (6º semestre)
+Atualmente cursando sistemas de informação na FIAP (6º semestre) <br>
 Currently I'm attending to Information Systems at FIAP (6th semester)
 
 ## What I've been studying
